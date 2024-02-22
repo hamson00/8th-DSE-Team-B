@@ -1,0 +1,6 @@
+git clone <repository-url>
+cd <repository-name>
+# Make your changes
+git add .
+git commit -m "http://tinyurl.com/3d8u8mwu"
+git push origin main
